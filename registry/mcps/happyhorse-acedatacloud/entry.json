@@ -9,7 +9,7 @@
     "name": "Ace Data Cloud",
     "url": "https://acedata.cloud"
   },
-  "homepage": "https://github.com/AceDataCloud/MCPs/blob/c607eeb71d1702ffbe5e4e84c3e72fe834683d14/happyhorse/docs/cline.md",
+  "homepage": "https://github.com/AceDataCloud/MCPs/blob/4a2fb4e17d322bc22c5742ab3a5bd48b24ec5bdc/happyhorse/docs/cline.md",
   "repo": "https://github.com/AceDataCloud/HappyHorseMCP",
   "icon": "./icon.png",
   "tags": [
@@ -25,6 +25,6 @@
       "http",
       "https://happyhorse.mcp.acedata.cloud/mcp"
     ],
-    "notes": "After installation, open the Cline MCP manager and authorize the server through OAuth. Alternatively, follow the guide to register/sign in to Ace, open Applications → General application, copy or create a dedicated API Token, and add one Authorization: Bearer header in your private user MCP settings. Do not use both fixed headers and OAuth. Check current service pricing and balance before generating. Guide: https://github.com/AceDataCloud/MCPs/blob/c607eeb71d1702ffbe5e4e84c3e72fe834683d14/happyhorse/docs/cline.md"
+    "notes": "After installation, open the Cline MCP manager and authorize the server through OAuth. Alternatively, follow the guide to register/sign in to Ace, open Applications → General application, copy or create a dedicated API Token, and add one Authorization: Bearer header in your private user MCP settings. Do not use both fixed headers and OAuth. Check current service pricing and balance before generating. Guide: https://github.com/AceDataCloud/MCPs/blob/4a2fb4e17d322bc22c5742ab3a5bd48b24ec5bdc/happyhorse/docs/cline.md"
   }
 }
